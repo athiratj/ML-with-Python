@@ -1,0 +1,37 @@
+﻿Steps to create a Virtual Environmnet python3+
+
+Step1:Check the current python3 version
+      
+      $Python3
+(While providing the command to command prompt in terminal finds a default python3 version)
+
+Step2:a)Create a directory regarding your project
+	  b)Change t working directory(project) 
+        $mkdir project
+ 	    $cd project
+
+Step3:Create a python3(default) environment using pipenv-pipes
+        $sudo pip3 install pipenv
+ 
+Step4:Commad to check the documentation and basic   commands of pipenv virtual environment
+        $pipenv –help
+
+Step5:To activate the shell
+     $pipenv shell
+
+Step6:Install all libraries 
+     $pipenv install pandas numpy
+
+Step7:To list the library in the current environment
+     $pipenv lock -r
+
+Step8:To execute the python code in the Virtual environment
+    $pipenv run python3 program.py
+
+Step9:To save the list of libraries in the environment
+     $pipenv run pip freeze > requirements.txt
+
+
+
+  
+

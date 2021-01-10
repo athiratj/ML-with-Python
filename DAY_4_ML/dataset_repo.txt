@@ -1,0 +1,102 @@
+# List of Dataset Resources and Repo
+
+[UCI](https://archive.ics.uci.edu/ml/index.php)
+
+[Awesome List](https://github.com/awesomedata/awesome-public-datasets)
+
+[Microsoft](https://msropendata.com/)
+
+[Google Datasearch](https://toolbox.google.com/datasetsearch)
+
+[Amazon](https://registry.opendata.aws/)
+
+[Kaggle](https://www.kaggle.com/datasets)
+
+[Wiki List](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research)
+[Wiki Full Text](https://code.google.com/p/wiki-links/downloads/list)
+
+[538](http://fivethirtyeight.com/)
+
+[Socrate](https://opendata.socrata.com/)
+
+[LionBridge](https://lionbridge.ai/datasets/)
+
+### For Images/Visual
+
+[ImageNet](http://image-net.org/)
+[Visual Data.io](https://www.visualdata.io/)
+
+[LabelMe](http://labelme.csail.mit.edu/Release3.0/browserTools/php/dataset.php)
+
+[Generic Images](http://mscoco.org/)
+
+[Faces Dataset](http://vis-www.cs.umass.edu/lfw/)
+
+[Google Open Images](https://research.googleblog.com/2016/09/introducing-open-images-dataset.html)
+
+[MNIST: handwritten digits ](http://yann.lecun.com/exdb/mnist/)
+
++ [CIFAR10 / CIFAR100: 32×32 natural image dataset with 10/100 categories ](http://www.cs.utoronto.ca/~kriz/cifar.html)
+
++ [Labelme: A large dataset of annotated images,](http://labelme.csail.mit.edu/Release3.0/browserTools/php/dataset.php)
+
++ [COIL 20: different objects imaged at every angle in a 360 rotation](http://www.cs.columbia.edu/CAVE/software/softlib/coil-20.php)
+
++ [COIL100: different objects imaged at every angle in a 360 rotation ](http://www1.cs.columbia.edu/CAVE/software/softlib/coil-100.php)
+
++ [Caltech 101: pictures of objects belonging to 101 categories](http://www.vision.caltech.edu/Image_Datasets/Caltech101/)
+
++ [Caltech 256: pictures of objects belonging to 256 categories](http://www.vision.caltech.edu/Image_Datasets/Caltech256/) 
+
++ [STL-10 dataset ](http://www.stanford.edu/~acoates//stl10/)
+
++ [The Street View House Numbers (SVHN) Dataset – ](http://ufldl.stanford.edu/housenumbers/)
+
++ [NORB: binocular images of toy figurines under various illumination and pose](http://www.cs.nyu.edu/~ylclab/data/norb-v1.0/)
+
++ [Imagenet: image database organized according to the WordNethierarchy](http://www.image-net.org/)
+
++ [Pascal VOC: various object recognition challenges ](http://pascallin.ecs.soton.ac.uk/challenges/VOC/)
+
+
+
+
+
+### Government
+[Europe](https://data.europa.eu/euodp/data/dataset)
+
+[US](https://www.data.gov/)
+
+[New Zealand](https://catalogue.data.govt.nz/dataset)
+
+[India](https://data.gov.in/)
+
+[Northen Ireland](https://www.opendatani.gov.uk/)
+
+[Data USA](http://datausa.io/)
+
+### Finance
+[Quandl](https://www.quandl.com/)
+
+[World Bank Open Data](https://data.worldbank.org/)
+
+[IMF](https://www.imf.org/en/Data)
+
+[Financial Times](https://markets.ft.com/data/)
+
+[AEA (American)](https://www.aeaweb.org/resources/data/us-macro-regional)
+
+### Self Driving
+[Berkeley](http://bdd-data.berkeley.edu/)
+
+[Comma.ai](https://archive.org/details/comma-dataset)
+
+[Baidu](http://apolloscape.auto/)
+
+[MIT Age Lab](http://lexfridman.com/automated-synchronization-of-driving-data-video-audio-telemetry-accelerometer/)
+
+### Articles/Sites
+https://skymind.ai/wiki/open-datasets
+https://medium.com/towards-artificial-intelligence/the-50-best-public-datasets-for-machine-learning-d80e9f030279
+https://www.edureka.co/blog/25-best-free-datasets-machine-learning/
+http://deeplearning.net/datasets/
