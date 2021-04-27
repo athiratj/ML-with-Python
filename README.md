@@ -16,3 +16,4 @@
 * [ML and Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 * [Practical Deep Learning for Coders](https://course.fast.ai/)
 * [Neural Network and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+* [Intro to Deep Learning in Python](https://campus.datacamp.com/courses/introduction-to-deep-learning-in-python/)
